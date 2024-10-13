@@ -1,0 +1,5 @@
+venv/
+Web/Application/__pycache__/
+Web/Application/migrations/
+Model/dota2Test.csv
+Model/dota2Train.csv
