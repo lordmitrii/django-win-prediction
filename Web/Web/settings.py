@@ -11,7 +11,8 @@ SECRET_KEY = '1234'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+# SECURITY WARNING: don't keep all allowed hosts in production
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
